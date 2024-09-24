@@ -2,7 +2,6 @@ import streamlit as st
 from langchain.prompts import ChatPromptTemplate
 from langchain_openai import AzureChatOpenAI
 ### GPT 3.5 turbo key
-key = 'sk-proj-dGiJwyqUFi5xeiabLgCbT3BlbkFJs3tseKuIL7uz3HdaqKad'
 
 ## Imports
 import os
